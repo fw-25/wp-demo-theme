@@ -1,0 +1,11 @@
+/**
+ * Theme Name:  WP Demo Theme
+ * Template:    generatepress
+ * Description: Custom theme description...
+ * Version:     1.0.0
+ * Author:      Your Name
+ */
+
+ body {
+    background-color: cadetblue;
+ }
